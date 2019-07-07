@@ -1,7 +1,7 @@
 # AWS CLI Docker image
 
 Containerized AWS CLI on Alpine to avoid requiring the AWS CLI to be installed on developer or CI machines.  
-The image also provides a few other tools, including [jq](https://stedolan.github.io/jq/).
+The image also provides a few other tools, including [jq](https://stedolan.github.io/jq/) and [ECS CLI](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_CLI.html).
 
 ## Providing credentials
 
