@@ -1,6 +1,6 @@
 FROM python:3.8-alpine
 
-ARG AWS_CLI_VERSION=1.18.100
+ARG AWS_CLI_VERSION=1.18.125
 
 RUN apk add --no-cache \
         bash \
